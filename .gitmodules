@@ -20,6 +20,8 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/Cont1nental/images.git
+	branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/Cont1nental/_gallery.git
+	branch = master
