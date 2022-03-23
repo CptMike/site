@@ -8,6 +8,7 @@ events:
   - ms-dos
   - windows1 
   - windows95
+  - windows-xp
   - windows-mobile
   - windows-phone
   - windows8
