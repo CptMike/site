@@ -17,9 +17,11 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/Cont1nental/text
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/mariosconsta/_gallery
 [submodule "images"]
 	path = images
-	url = https://github.com/mariosconsta/images
+	url = https://github.com/Cont1nental/images.git
+	branch = master
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/Cont1nental/_gallery.git
+	branch = master
