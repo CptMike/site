@@ -11,6 +11,7 @@ events:
   - windows-xp
   - windows-mobile
   - windows-phone
+  - windows-vista
   - windows8
   - windows10
   - directX
